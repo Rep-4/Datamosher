@@ -1,0 +1,25 @@
+{
+  "hash": "5632a67f",
+  "configHash": "607636c8",
+  "lockfileHash": "f35d6390",
+  "browserHash": "6e2630ce",
+  "optimized": {
+    "@ffmpeg/ffmpeg": {
+      "src": "../../node_modules/@ffmpeg/ffmpeg/dist/esm/index.js",
+      "file": "@ffmpeg_ffmpeg.js",
+      "fileHash": "ca5983f7",
+      "needsInterop": false
+    },
+    "@ffmpeg/util": {
+      "src": "../../node_modules/@ffmpeg/util/dist/esm/index.js",
+      "file": "@ffmpeg_util.js",
+      "fileHash": "55e97666",
+      "needsInterop": false
+    }
+  },
+  "chunks": {
+    "chunk-JMHRHAEL": {
+      "file": "chunk-JMHRHAEL.js"
+    }
+  }
+}
