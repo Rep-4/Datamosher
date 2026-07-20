@@ -3,7 +3,7 @@
 import { defineConfig } from "vite";
 
 export default defineConfig({
-  base: "/Datamosher/browser-datamosh/",
+  base: "/Datamosher/",
   optimizeDeps: {
     exclude: [
       "@ffmpeg/ffmpeg",
